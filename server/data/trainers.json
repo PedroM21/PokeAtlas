@@ -1,0 +1,2208 @@
+[
+  {
+    "trainer": "Falkner",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Violet City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/falkner.png",
+    "team": [
+      {
+        "pokemon": "Pidgey",
+        "level": 9,
+        "types": ["Normal", "Flying"],
+        "moves": ["Tackle", "Sand Attack"]
+      },
+      {
+        "pokemon": "Pidgeotto",
+        "level": 13,
+        "types": ["Normal", "Flying"],
+        "moves": ["Tackle", "Roost", "Gust"]
+      }
+    ]
+  },
+  {
+    "trainer": "Bugsy",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Azalea Town",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/bugsy.png",
+    "team": [
+      {
+        "pokemon": "Metapod",
+        "level": 15,
+        "types": ["Bug"],
+        "moves": ["Tackle"]
+      },
+      {
+        "pokemon": "Kakuna",
+        "level": 15,
+        "types": ["Bug", "Poison"],
+        "moves": ["Poison Sting"]
+      },
+      {
+        "pokemon": "Scyther",
+        "level": 17,
+        "types": ["Bug", "Flying"],
+        "moves": ["U-turn", "Quick Attack", "Leer", "Focus Energy"]
+      }
+    ]
+  },
+  {
+    "trainer": "Whitney",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Goldenrod City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/whitney.png",
+    "team": [
+      {
+        "pokemon": "Clefairy",
+        "level": 17,
+        "types": ["Normal"],
+        "moves": ["Mimic", "Encore", "DoubleSlap", "Metronome"]
+      },
+      {
+        "pokemon": "Miltank",
+        "level": 19,
+        "types": ["Normal"],
+        "moves": ["Stomp", "Rollout", "Attract", "Milk Drink"]
+      }
+    ]
+  },
+  {
+    "trainer": "Morty",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Ecruteak City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/morty.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 21,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Spite", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 21,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Hypnosis", "Dream Eater", "Curse", "Nightmare"]
+      },
+      {
+        "pokemon": "Gengar",
+        "level": 25,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Hypnosis", "Shadow Ball", "Mean Look", "Sucker Punch"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 23,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Curse", "Mean Look", "Sucker Punch", "Night Shade"]
+      }
+    ]
+  },
+  {
+    "trainer": "Chuck",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Cianwood City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/chuck.png",
+    "team": [
+      {
+        "pokemon": "Primeape",
+        "level": 29,
+        "types": ["Fighting"],
+        "moves": ["Leer", "Double Team", "Rock Slide", "Focus Punch"]
+      },
+      {
+        "pokemon": "Poliwrath",
+        "level": 31,
+        "types": ["Water", "Fighting"],
+        "moves": ["Hypnosis", "Body Slam", "Surf", "Focus Punch"]
+      }
+    ]
+  },
+  {
+    "trainer": "Jasmine",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Olivine City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/jasmine.png",
+    "team": [
+      {
+        "pokemon": "Magnemite",
+        "level": 30,
+        "types": ["Electric", "Steel"],
+        "moves": ["Thunderbolt", "SonicBoom", "Supersonic", "Thunder Wave"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 30,
+        "types": ["Electric", "Steel"],
+        "moves": ["Thunderbolt", "SonicBoom", "Supersonic", "Thunder Wave"]
+      },
+      {
+        "pokemon": "Steelix",
+        "level": 35,
+        "types": ["Steel", "Ground"],
+        "moves": ["Iron Tail", "Rock Throw", "Sandstorm", "Screech"]
+      }
+    ]
+  },
+  {
+    "trainer": "Pryce",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Mahogany Town",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/pryce.png",
+    "team": [
+      {
+        "pokemon": "Seel",
+        "level": 30,
+        "types": ["Water"],
+        "moves": ["Icy Wind", "Rest", "Snore", "Hail"]
+      },
+      {
+        "pokemon": "Dewgong",
+        "level": 32,
+        "types": ["Water", "Ice"],
+        "moves": ["Aurora Beam", "Rest", "Sleep Talk", "Ice Shard"]
+      },
+      {
+        "pokemon": "Piloswine",
+        "level": 34,
+        "types": ["Ice", "Ground"],
+        "moves": ["Blizzard", "Ice Fang", "Mud Bomb", "Hail"]
+      }
+    ]
+  },
+  {
+    "trainer": "Clair",
+    "type": "Gym Leader",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Blackthorn City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/clair.png",
+    "team": [
+      {
+        "pokemon": "Gyarados",
+        "level": 38,
+        "types": ["Water", "Flying"],
+        "moves": ["Bite", "Twister", "Dragon Rage", "Dragon Pulse"]
+      },
+      {
+        "pokemon": "Dragonair",
+        "level": 38,
+        "types": ["Dragon"],
+        "moves": ["Thunder Wave", "Slam", "Aqua Tail", "Dragon Pulse"]
+      },
+      {
+        "pokemon": "Dragonair",
+        "level": 38,
+        "types": ["Dragon"],
+        "moves": ["Thunder Wave", "Slam", "Fire Blast", "Dragon Pulse"]
+      },
+      {
+        "pokemon": "Kingdra",
+        "level": 41,
+        "types": ["Water", "Dragon"],
+        "moves": ["Hydro Pump", "SmokeScreen", "Hyper Beam", "Dragon Pulse"]
+      }
+    ]
+  },
+  {
+    "trainer": "Will",
+    "type": "Elite Four",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Indigo Plateau",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/will.png",
+    "team": [
+      {
+        "pokemon": "Xatu",
+        "level": 40,
+        "types": ["Psychic", "Flying"],
+        "moves": ["U-turn", "Me First", "Psychic", "Confuse Ray"]
+      },
+      {
+        "pokemon": "Jynx",
+        "level": 41,
+        "types": ["Ice", "Psychic"],
+        "moves": ["Psychic", "Lovely Kiss", "Ice Punch", "DoubleSlap"]
+      },
+      {
+        "pokemon": "Slowbro",
+        "level": 41,
+        "types": ["Water", "Psychic"],
+        "moves": ["Curse", "Amnesia", "Water Pulse", "Psychic"]
+      },
+      {
+        "pokemon": "Exeggutor",
+        "level": 41,
+        "types": ["Grass", "Psychic"],
+        "moves": ["Reflect", "Psychic", "Egg Bomb", "Hypnosis"]
+      },
+      {
+        "pokemon": "Xatu",
+        "level": 42,
+        "types": ["Psychic", "Flying"],
+        "moves": ["Psychic", "Confuse Ray", "Ominous Wind", "Aerial Ace"]
+      }
+    ]
+  },
+  {
+    "trainer": "Koga",
+    "type": "Elite Four",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Indigo Plateau",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/koga.png",
+    "team": [
+      {
+        "pokemon": "Ariados",
+        "level": 40,
+        "types": ["Bug", "Poison"],
+        "moves": ["Spider Web", "Baton Pass", "Giga Drain", "Poison Jab"]
+      },
+      {
+        "pokemon": "Forretress",
+        "level": 43,
+        "types": ["Bug", "Steel"],
+        "moves": ["Swift", "Explosion", "Protect", "Toxic Spikes"]
+      },
+      {
+        "pokemon": "Muk",
+        "level": 42,
+        "types": ["Poison"],
+        "moves": ["Gunk Shot", "Minimize", "Screech", "Toxic"]
+      },
+      {
+        "pokemon": "Venomoth",
+        "level": 41,
+        "types": ["Bug", "Poison"],
+        "moves": ["Psychic", "Gust", "Supersonic", "Toxic"]
+      },
+      {
+        "pokemon": "Crobat",
+        "level": 44,
+        "types": ["Poison", "Flying"],
+        "moves": ["Quick Attack", "Wing Attack", "Double Team", "Poison Fang"]
+      }
+    ]
+  },
+  {
+    "trainer": "Bruno",
+    "type": "Elite Four",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Indigo Plateau",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/bruno.png",
+    "team": [
+      {
+        "pokemon": "Hitmontop",
+        "level": 42,
+        "types": ["Fighting"],
+        "moves": ["Dig", "Quick Attack", "Counter", "Triple Kick"]
+      },
+      {
+        "pokemon": "Hitmonlee",
+        "level": 42,
+        "types": ["Fighting"],
+        "moves": ["Blaze Kick", "Focus Energy", "Hi Jump Kick", "Swagger"]
+      },
+      {
+        "pokemon": "Hitmonchan",
+        "level": 42,
+        "types": ["Fighting"],
+        "moves": ["Ice Punch", "ThunderPunch", "Fire Punch", "Bullet Punch"]
+      },
+      {
+        "pokemon": "Onix",
+        "level": 43,
+        "types": ["Rock", "Ground"],
+        "moves": ["Sandstorm", "Earthquake", "Rock Slide", "DragonBreath"]
+      },
+      {
+        "pokemon": "Machamp",
+        "level": 46,
+        "types": ["Fighting"],
+        "moves": ["Rock Slide", "Cross Chop", "Revenge", "Foresight"]
+      }
+    ]
+  },
+  {
+    "trainer": "Karen",
+    "type": "Elite Four",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Indigo Plateau",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/karen.png",
+    "team": [
+      {
+        "pokemon": "Umbreon",
+        "level": 42,
+        "types": ["Dark"],
+        "moves": ["Double Team", "Confuse Ray", "Faint Attack", "Payback"]
+      },
+      {
+        "pokemon": "Vileplume",
+        "level": 42,
+        "types": ["Grass", "Poison"],
+        "moves": ["Stun Spore", "Petal Dance", "Acid", "Moonlight"]
+      },
+      {
+        "pokemon": "Murkrow",
+        "level": 44,
+        "types": ["Dark", "Flying"],
+        "moves": ["Sucker Punch", "Faint Attack", "Pluck", "Whirlwind"]
+      },
+      {
+        "pokemon": "Gengar",
+        "level": 45,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Focus Blast", "Destiny Bond", "Spite", "Lick"]
+      },
+      {
+        "pokemon": "Houndoom",
+        "level": 47,
+        "types": ["Dark", "Fire"],
+        "moves": ["Nasty Plot", "Dark Pulse", "Flamethrower", "Crunch"]
+      }
+    ]
+  },
+  {
+    "trainer": "Lance",
+    "type": "Champion",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Indigo Plateau",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/lance.png",
+    "team": [
+      {
+        "pokemon": "Gyarados",
+        "level": 46,
+        "types": ["Water", "Flying"],
+        "moves": ["Dragon Pulse", "Flail", "Waterfall", "Ice Fang"]
+      },
+      {
+        "pokemon": "Dragonite",
+        "level": 49,
+        "types": ["Dragon", "Flying"],
+        "moves": ["Thunder Wave", "Hyper Beam", "Thunder", "Dragon Rush"]
+      },
+      {
+        "pokemon": "Dragonite",
+        "level": 49,
+        "types": ["Dragon", "Flying"],
+        "moves": ["Thunder Wave", "Hyper Beam", "Blizzard", "Dragon Rush"]
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "level": 48,
+        "types": ["Rock", "Flying"],
+        "moves": ["Thunder Fang", "Rock Slide", "Aerial Ace", "Crunch"]
+      },
+      {
+        "pokemon": "Charizard",
+        "level": 48,
+        "types": ["Fire", "Flying"],
+        "moves": ["Air Slash", "Fire Fang", "Shadow Claw", "Dragon Claw"]
+      },
+      {
+        "pokemon": "Dragonite",
+        "level": 50,
+        "types": ["Dragon", "Flying"],
+        "moves": ["Safeguard", "Outrage", "Fire Blast", "Hyper Beam"]
+      }
+    ]
+  },
+  {
+    "trainer": "Elder Li",
+    "type": "Boss",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Sprout Tower",
+    "sprite": "",
+    "team": [
+      {
+        "pokemon": "Bellsprout",
+        "level": 7,
+        "types": ["Grass", "Poison"],
+        "moves": ["Vine Whip", "Growth"]
+      },
+      {
+        "pokemon": "Bellsprout",
+        "level": 7,
+        "types": ["Grass", "Poison"],
+        "moves": ["Vine Whip", "Growth"]
+      },
+      {
+        "pokemon": "Hoothoot",
+        "level": 10,
+        "types": ["Normal", "Flying"],
+        "moves": ["Growl", "Hypnosis", "Peck"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Cherrygrove City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Cyndaquil",
+        "level": 5,
+        "types": ["Fire"],
+        "moves": ["Tackle", "Leer"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Cherrygrove City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Totodile",
+        "level": 5,
+        "types": ["Water"],
+        "moves": ["Scratch", "Leer"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Cherrygrove City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Chikorita",
+        "level": 5,
+        "types": ["Grass"],
+        "moves": ["Tackle", "Growl"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Azalea Town",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 14,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Spite", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Zubat",
+        "level": 16,
+        "types": ["Poison", "Flying"],
+        "moves": ["Leech Life", "Supersonic", "Astonish", "Bite"]
+      },
+      {
+        "pokemon": "Quilava",
+        "level": 18,
+        "types": ["Fire"],
+        "moves": ["Leer", "SmokeScreen", "Ember", "Quick Attack"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Azalea Town",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 14,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Spite", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Zubat",
+        "level": 16,
+        "types": ["Poison", "Flying"],
+        "moves": ["Leech Life", "Supersonic", "Astonish", "Bite"]
+      },
+      {
+        "pokemon": "Croconaw",
+        "level": 18,
+        "types": ["Water"],
+        "moves": ["Water Gun", "Rage", "Bite", "Scary Face"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Azalea Town",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 14,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Spite", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Zubat",
+        "level": 16,
+        "types": ["Poison", "Flying"],
+        "moves": ["Leech Life", "Supersonic", "Astonish", "Bite"]
+      },
+      {
+        "pokemon": "Bayleef",
+        "level": 18,
+        "types": ["Grass"],
+        "moves": ["PoisonPowder", "Reflect", "Synthesis", "Razor Leaf"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Burned Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 20,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Confuse Ray", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Zubat",
+        "level": 20,
+        "types": ["Poison", "Flying"],
+        "moves": ["Wing Attack", "Supersonic", "Astonish", "Bite"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 18,
+        "types": ["Electric", "Steel"],
+        "moves": ["ThunderShock", "Supersonic", "SonicBoom", "Thunder Wave"]
+      },
+      {
+        "pokemon": "Quilava",
+        "level": 22,
+        "types": ["Fire"],
+        "moves": ["Flame Wheel", "SmokeScreen", "Ember", "Quick Attack"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Burned Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 20,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Confuse Ray", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Zubat",
+        "level": 20,
+        "types": ["Poison", "Flying"],
+        "moves": ["Wing Attack", "Supersonic", "Astonish", "Bite"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 18,
+        "types": ["Electric", "Steel"],
+        "moves": ["ThunderShock", "Supersonic", "SonicBoom", "Thunder Wave"]
+      },
+      {
+        "pokemon": "Croconaw",
+        "level": 22,
+        "types": ["Water"],
+        "moves": ["Water Gun", "Scary Face", "Ice Fang", "Bite"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Burned Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Gastly",
+        "level": 20,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Lick", "Confuse Ray", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Zubat",
+        "level": 20,
+        "types": ["Poison", "Flying"],
+        "moves": ["Wing Attack", "Supersonic", "Astonish", "Bite"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 18,
+        "types": ["Electric", "Steel"],
+        "moves": ["ThunderShock", "Supersonic", "SonicBoom", "Thunder Wave"]
+      },
+      {
+        "pokemon": "Bayleef",
+        "level": 22,
+        "types": ["Grass"],
+        "moves": ["Reflect", "Magical Leaf", "PoisonPowder", "Synthesis"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Goldenrod Tunnel",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Golbat",
+        "level": 32,
+        "types": ["Poison", "Flying"],
+        "moves": ["Air Cutter", "Confuse Ray", "Bite", "Astonish"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 30,
+        "types": ["Electric", "Steel"],
+        "moves": ["Thunder Wave", "Spark", "Supersonic", "SonicBoom"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 32,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Shadow Ball", "Confuse Ray", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Sneasel",
+        "level": 34,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Quick Attack", "Icy Wind", "Fury Swipes"]
+      },
+      {
+        "pokemon": "Quilava",
+        "level": 34,
+        "types": ["Fire"],
+        "moves": ["SmokeScreen", "Swift", "Quick Attack", "Flame Wheel"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Goldenrod Tunnel",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Golbat",
+        "level": 32,
+        "types": ["Poison", "Flying"],
+        "moves": ["Air Cutter", "Confuse Ray", "Bite", "Astonish"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 30,
+        "types": ["Electric", "Steel"],
+        "moves": ["Thunder Wave", "Spark", "Supersonic", "SonicBoom"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 32,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Shadow Ball", "Confuse Ray", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Sneasel",
+        "level": 34,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Quick Attack", "Icy Wind", "Fury Swipes"]
+      },
+      {
+        "pokemon": "Feraligatr",
+        "level": 32,
+        "types": ["Water"],
+        "moves": ["Water Gun", "Ice Fang", "Crunch", "Thrash"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Goldenrod Tunnel",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Golbat",
+        "level": 32,
+        "types": ["Poison", "Flying"],
+        "moves": ["Air Cutter", "Confuse Ray", "Bite", "Astonish"]
+      },
+      {
+        "pokemon": "Magnemite",
+        "level": 30,
+        "types": ["Electric", "Steel"],
+        "moves": ["Thunder Wave", "Spark", "Supersonic", "SonicBoom"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 32,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Shadow Ball", "Confuse Ray", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Sneasel",
+        "level": 34,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Quick Attack", "Icy Wind", "Fury Swipes"]
+      },
+      {
+        "pokemon": "Meganium",
+        "level": 34,
+        "types": ["Grass"],
+        "moves": ["Reflect", "Petal Dance", "PoisonPowder", "Synthesis"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Victory Road",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 36,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Icy Wind", "Fury Swipes", "Quick Attack"]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 38,
+        "types": ["Poison", "Flying"],
+        "moves": ["Bite", "Confuse Ray", "Air Cutter", "Astonish"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 37,
+        "types": ["Electric", "Steel"],
+        "moves": ["Spark", "Thunder Wave", "Supersonic", "Magnet Bomb"]
+      },
+      {
+        "pokemon": "Kadabra",
+        "level": 37,
+        "types": ["Psychic"],
+        "moves": ["Reflect", "Disable", "Psybeam", "Recover"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 37,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Curse", "Mean Look", "Confuse Ray", "Shadow Ball"]
+      },
+      {
+        "pokemon": "Typhlosion",
+        "level": 40,
+        "types": ["Fire"],
+        "moves": ["Lava Plume", "Swift", "Flame Wheel", "Quick Attack"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Victory Road",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 36,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Icy Wind", "Fury Swipes", "Quick Attack"]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 38,
+        "types": ["Poison", "Flying"],
+        "moves": ["Bite", "Confuse Ray", "Air Cutter", "Astonish"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 37,
+        "types": ["Electric", "Steel"],
+        "moves": ["Spark", "Thunder Wave", "Supersonic", "Magnet Bomb"]
+      },
+      {
+        "pokemon": "Kadabra",
+        "level": 37,
+        "types": ["Psychic"],
+        "moves": ["Reflect", "Disable", "Psybeam", "Recover"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 37,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Curse", "Mean Look", "Confuse Ray", "Shadow Ball"]
+      },
+      {
+        "pokemon": "Feraligatr",
+        "level": 40,
+        "types": ["Water"],
+        "moves": ["Waterfall", "Slash", "Ice Fang", "Crunch"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Victory Road",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 36,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Icy Wind", "Fury Swipes", "Quick Attack"]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 38,
+        "types": ["Poison", "Flying"],
+        "moves": ["Bite", "Confuse Ray", "Air Cutter", "Astonish"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 37,
+        "types": ["Electric", "Steel"],
+        "moves": ["Spark", "Thunder Wave", "Supersonic", "Magnet Bomb"]
+      },
+      {
+        "pokemon": "Kadabra",
+        "level": 37,
+        "types": ["Psychic"],
+        "moves": ["Reflect", "Disable", "Psybeam", "Recover"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 37,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Curse", "Mean Look", "Confuse Ray", "Shadow Ball"]
+      },
+      {
+        "pokemon": "Meganium",
+        "level": 40,
+        "types": ["Grass"],
+        "moves": ["Reflect", "Petal Dance", "PoisonPowder", "Synthesis"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Mt. Moon",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 46,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Shadow Claw", "Icy Wind", "Quick Attack"]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 47,
+        "types": ["Poison", "Flying"],
+        "moves": ["Poison Fang", "Air Cutter", "Confuse Ray", "Bite"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 46,
+        "types": ["Electric", "Steel"],
+        "moves": ["Discharge", "Thunder Wave", "Magnet Bomb", "Supersonic"]
+      },
+      {
+        "pokemon": "Alakazam",
+        "level": 48,
+        "types": ["Psychic"],
+        "moves": ["Psychic", "Reflect", "Recover", "Disable"]
+      },
+      {
+        "pokemon": "Gengar",
+        "level": 48,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Shadow Ball", "Confuse Ray", "Curse", "Mean Look"]
+      },
+      {
+        "pokemon": "Typhlosion",
+        "level": 50,
+        "types": ["Fire"],
+        "moves": ["Flamethrower", "Quick Attack", "Flame Wheel", "Swift"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Mt. Moon",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 46,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Shadow Claw", "Icy Wind", "Quick Attack"]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 47,
+        "types": ["Poison", "Flying"],
+        "moves": ["Poison Fang", "Air Cutter", "Confuse Ray", "Bite"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 46,
+        "types": ["Electric", "Steel"],
+        "moves": ["Discharge", "Thunder Wave", "Magnet Bomb", "Supersonic"]
+      },
+      {
+        "pokemon": "Alakazam",
+        "level": 48,
+        "types": ["Psychic"],
+        "moves": ["Psychic", "Reflect", "Recover", "Disable"]
+      },
+      {
+        "pokemon": "Gengar",
+        "level": 48,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Shadow Ball", "Confuse Ray", "Curse", "Mean Look"]
+      },
+      {
+        "pokemon": "Feraligatr",
+        "level": 50,
+        "types": ["Water"],
+        "moves": ["Waterfall", "Ice Fang", "Slash", "Crunch"]
+      }
+    ]
+  },
+  {
+    "trainer": "Silver",
+    "type": "Rival",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "location": "Mt. Moon",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/silver.png",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 46,
+        "types": ["Dark", "Ice"],
+        "moves": ["Faint Attack", "Shadow Claw", "Icy Wind", "Quick Attack"]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 47,
+        "types": ["Poison", "Flying"],
+        "moves": ["Poison Fang", "Air Cutter", "Confuse Ray", "Bite"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 46,
+        "types": ["Electric", "Steel"],
+        "moves": ["Discharge", "Thunder Wave", "Magnet Bomb", "Supersonic"]
+      },
+      {
+        "pokemon": "Alakazam",
+        "level": 48,
+        "types": ["Psychic"],
+        "moves": ["Psychic", "Reflect", "Recover", "Disable"]
+      },
+      {
+        "pokemon": "Gengar",
+        "level": 48,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Shadow Ball", "Confuse Ray", "Curse", "Mean Look"]
+      },
+      {
+        "pokemon": "Meganium",
+        "level": 50,
+        "types": ["Grass"],
+        "moves": ["Light Screen", "Petal Dance", "Synthesis", "PoisonPowder"]
+      }
+    ]
+  },
+  {
+    "trainer": "Proton",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket",
+    "location": "Slowpoke's Well",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/proton.png",
+    "team": [
+      {
+        "pokemon": "Zubat",
+        "level": 8,
+        "types": ["Poison", "Flying"],
+        "moves": ["Leech Life", "Supersonic"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 12,
+        "types": ["Poison"],
+        "moves": ["Poison Gas", "Tackle", "Smog", "SmokeScreen"]
+      }
+    ]
+  },
+  {
+    "trainer": "Petrel",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket",
+    "location": "Team Rocket HQ",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/petrel.png",
+    "team": [
+      {
+        "pokemon": "Zubat",
+        "level": 22,
+        "types": ["Poison", "Flying"],
+        "moves": ["Astonish", "Bite", "Wing Attack", "Confuse Ray"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 22,
+        "types": ["Poison"],
+        "moves": ["Smog", "SmokeScreen", "Assurance", "Selfdestruct"]
+      },
+      {
+        "pokemon": "Raticate",
+        "level": 24,
+        "types": ["Normal"],
+        "moves": ["Hyper Fang", "Sucker Punch", "Scary Face", "Crunch"]
+      }
+    ]
+  },
+  {
+    "trainer": "Ariana",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket Executive",
+    "location": "Team Rocket HQ",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/ariana.png",
+    "team": [
+      {
+        "pokemon": "Arbok",
+        "level": 25,
+        "types": ["Poison"],
+        "moves": ["Glare", "Crunch", "Wrap", "Poison Sting"]
+      },
+      {
+        "pokemon": "Gloom",
+        "level": 25,
+        "types": ["Grass", "Poison"],
+        "moves": ["Sweet Scent", "Mega Drain", "Acid", "Sleep Powder"]
+      },
+      {
+        "pokemon": "Murkrow",
+        "level": 27,
+        "types": ["Dark", "Flying"],
+        "moves": ["Night Shade", "Wing Attack", "Astonish", "Pursuit"]
+      },
+      {
+        "pokemon": "Drowzee",
+        "level": 18,
+        "types": ["Psychic"],
+        "moves": ["Disable", "Confusion", "Headbutt", "Poison Gas"]
+      },
+      {
+        "pokemon": "Grimer",
+        "level": 20,
+        "types": ["Poison"],
+        "moves": ["Mud-Slap", "Disable", "Minimize", "Sludge"]
+      }
+    ]
+  },
+  {
+    "trainer": "Petrel",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket",
+    "location": "Goldenrod Radio Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/petrel.png",
+    "team": [
+      {
+        "pokemon": "Koffing",
+        "level": 30,
+        "types": ["Poison"],
+        "moves": ["Sludge", "SmokeScreen", "Selfdestruct", "Tackle"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 30,
+        "types": ["Poison"],
+        "moves": ["Sludge", "SmokeScreen", "Selfdestruct", "Tackle"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 30,
+        "types": ["Poison"],
+        "moves": ["Sludge", "SmokeScreen", "Selfdestruct", "Tackle"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 30,
+        "types": ["Poison"],
+        "moves": ["Sludge", "SmokeScreen", "Selfdestruct", "Tackle"]
+      },
+      {
+        "pokemon": "Weezing",
+        "level": 32,
+        "types": ["Poison"],
+        "moves": ["Tackle", "Sludge", "SmokeScreen", "Explosion"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 30,
+        "types": ["Poison"],
+        "moves": ["Sludge", "SmokeScreen", "Selfdestruct", "Tackle"]
+      }
+    ]
+  },
+  {
+    "trainer": "Proton",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket",
+    "location": "Goldenrod Radio Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/proton.png",
+    "team": [
+      {
+        "pokemon": "Golbat",
+        "level": 28,
+        "types": ["Poison", "Flying"],
+        "moves": ["Wing Attack", "Confuse Ray", "Leech Life", "Bite"]
+      },
+      {
+        "pokemon": "Weezing",
+        "level": 33,
+        "types": ["Poison"],
+        "moves": ["Sludge", "Double Hit", "SmokeScreen", "Smog"]
+      }
+    ]
+  },
+  {
+    "trainer": "Ariana",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket",
+    "location": "Goldenrod Radio Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/ariana.png",
+    "team": [
+      {
+        "pokemon": "Arbok",
+        "level": 32,
+        "types": ["Poison"],
+        "moves": ["Glare", "Crunch", "Wrap", "Poison Sting"]
+      },
+      {
+        "pokemon": "Vileplume",
+        "level": 32,
+        "types": ["Grass", "Poison"],
+        "moves": ["Sweet Scent", "Mega Drain", "Acid", "Sleep Powder"]
+      },
+      {
+        "pokemon": "Murkrow",
+        "level": 32,
+        "types": ["Dark", "Flying"],
+        "moves": ["Night Shade", "Wing Attack", "Astonish", "Pursuit"]
+      }
+    ]
+  },
+  {
+    "trainer": "Archer",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Team Rocket",
+    "location": "Goldenrod Radio Tower",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/archer.png",
+    "team": [
+      {
+        "pokemon": "Houndour",
+        "level": 35,
+        "types": ["Dark", "Fire"],
+        "moves": ["Faint Attack", "Fire Fang", "Bite", "Roar"]
+      },
+      {
+        "pokemon": "Koffing",
+        "level": 35,
+        "types": ["Poison"],
+        "moves": ["Sludge", "SmokeScreen", "Tackle", "Haze"]
+      },
+      {
+        "pokemon": "Houndoom",
+        "level": 38,
+        "types": ["Dark", "Fire"],
+        "moves": ["Faint Attack", "Fire Fang", "Bite", "Smog"]
+      }
+    ]
+  },
+  {
+    "trainer": "Eusine",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Cianwood City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/eusine.png",
+    "team": [
+      {
+        "pokemon": "Drowzee",
+        "level": 25,
+        "types": ["Psychic"],
+        "moves": ["Hypnosis", "Disable", "Confusion", "Dream Eater"]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 25,
+        "types": ["Ghost", "Poison"],
+        "moves": ["Hypnosis", "Lick", "Mean Look", "Curse"]
+      },
+      {
+        "pokemon": "Electrode",
+        "level": 27,
+        "types": ["Electric"],
+        "moves": ["SonicBoom", "Rollout", "Screech", "Thunder"]
+      }
+    ]
+  },
+  {
+    "trainer": "Zuki",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Ecruteak City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/kimonogirl.png",
+    "team": [
+      {
+        "pokemon": "Umbreon",
+        "level": 38,
+        "types": ["Dark"],
+        "moves": ["Dark Pulse", "Shadow Ball", "Confuse Ray", "Last Resort"]
+      }
+    ]
+  },
+  {
+    "trainer": "Naoko",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Ecruteak City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/kimonogirl.png",
+    "team": [
+      {
+        "pokemon": "Espeon",
+        "level": 38,
+        "types": ["Psychic"],
+        "moves": ["Psychic", "Swift", "Psych Up", "Last Resort"]
+      }
+    ]
+  },
+  {
+    "trainer": "Miki",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Ecruteak City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/kimonogirl.png",
+    "team": [
+      {
+        "pokemon": "Flareon",
+        "level": 38,
+        "types": ["Fire"],
+        "moves": ["Fire Blast", "Quick Attack", "Will-O-Wisp", "Last Resort"]
+      }
+    ]
+  },
+  {
+    "trainer": "Sayo",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Ecruteak City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/kimonogirl.png",
+    "team": [
+      {
+        "pokemon": "Jolteon",
+        "level": 38,
+        "types": ["Electric"],
+        "moves": ["Thunderbolt", "Double Team", "Thunder Wave", "Last Resort"]
+      }
+    ]
+  },
+  {
+    "trainer": "Kuni",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Ecruteak City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/kimonogirl.png",
+    "team": [
+      {
+        "pokemon": "Vaporeon",
+        "level": 38,
+        "types": ["Water"],
+        "moves": ["Surf", "Quick Attack", "Aurora Beam", "Last Resort"]
+      }
+    ]
+  },
+  {
+    "trainer": "Brock",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Pewter Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/brock.png",
+    "team": [
+      {
+        "pokemon": "Graveler",
+        "level": 51,
+        "types": ["Rock", "Ground"],
+        "moves": ["Defense Curl", "Rollout", "Earthquake", "Rock Slide"]
+      },
+      {
+        "pokemon": "Rhyhorn",
+        "level": 51,
+        "types": ["Ground", "Rock"],
+        "moves": ["Earthquake", "Sandstorm", "Scary Face", "Horn Drill"]
+      },
+      {
+        "pokemon": "Omastar",
+        "level": 53,
+        "types": ["Rock", "Water"],
+        "moves": ["Protect", "Spike Cannon", "AncientPower", "Brine"]
+      },
+      {
+        "pokemon": "Kabutops",
+        "level": 52,
+        "types": ["Rock", "Water"],
+        "moves": ["Endure", "Giga Drain", "Aqua Jet", "Rock Slide"]
+      },
+      {
+        "pokemon": "Onix",
+        "level": 54,
+        "types": ["Rock", "Ground"],
+        "moves": ["Screech", "Sandstorm", "Iron Tail", "Rock Slide"]
+      }
+    ]
+  },
+  {
+    "trainer": "Misty",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Cerulean Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/misty.png",
+    "team": [
+      {
+        "pokemon": "Golduck",
+        "level": 49,
+        "types": ["Water"],
+        "moves": ["Water Pulse", "Disable", "Psychic", "Psych Up"]
+      },
+      {
+        "pokemon": "Quagsire",
+        "level": 49,
+        "types": ["Water"],
+        "moves": ["Water Pulse", "Amnesia", "Rain Dance", "Earthquake"]
+      },
+      {
+        "pokemon": "Lapras",
+        "level": 52,
+        "types": ["Water", "Ice"],
+        "moves": ["Ice Beam", "Sing", "Water Pulse", "Body Slam"]
+      },
+      {
+        "pokemon": "Starmie",
+        "level": 54,
+        "types": ["Water", "Psychic"],
+        "moves": ["Water Pulse", "Confuse Ray", "Ice Beam", "Recover"]
+      }
+    ]
+  },
+  {
+    "trainer": "Lt. Surge",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Vermilion Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/ltsurge.png",
+    "team": [
+      {
+        "pokemon": "Raichu",
+        "level": 51,
+        "types": ["Electric"],
+        "moves": ["Thunder Wave", "Shock Wave", "Quick Attack", "Double Team"]
+      },
+      {
+        "pokemon": "Electrode",
+        "level": 47,
+        "types": ["Electric"],
+        "moves": ["Thunder Wave", "Double Team", "Shock Wave", "Light Screen"]
+      },
+      {
+        "pokemon": "Electrode",
+        "level": 47,
+        "types": ["Electric"],
+        "moves": ["Screech", "Double Team", "Selfdestruct", "Charge Beam"]
+      },
+      {
+        "pokemon": "Magneton",
+        "level": 47,
+        "types": ["Electric"],
+        "moves": ["Supersonic", "Double Team", "Shock Wave", "Mirror Shot"]
+      },
+      {
+        "pokemon": "Electabuzz",
+        "level": 53,
+        "types": ["Electric"],
+        "moves": ["Quick Attack", "Shock Wave", "Light Screen", "Low Kick"]
+      }
+    ]
+  },
+  {
+    "trainer": "Erika",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Celadon Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/erika.png",
+    "team": [
+      {
+        "pokemon": "Jumpluff",
+        "level": 51,
+        "types": ["Grass", "Flying"],
+        "moves": ["Leech Seed", "U-turn", "Giga Drain", "Sunny Day"]
+      },
+      {
+        "pokemon": "Tangela",
+        "level": 52,
+        "types": ["Grass"],
+        "moves": ["AncientPower", "Wring Out", "Giga Drain", "Sleep Powder"]
+      },
+      {
+        "pokemon": "Victreebel",
+        "level": 56,
+        "types": ["Grass", "Poison"],
+        "moves": ["Sunny Day", "Grass Knot", "Leaf Storm", "Razor Leaf"]
+      },
+      {
+        "pokemon": "Bellossom",
+        "level": 56,
+        "types": ["Grass"],
+        "moves": ["Sunny Day", "Solar Beam", "Giga Drain", "Synthesis"]
+      }
+    ]
+  },
+  {
+    "trainer": "Janine",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Fuchsia Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/janine.png",
+    "team": [
+      {
+        "pokemon": "Crobat",
+        "level": 47,
+        "types": ["Poison", "Flying"],
+        "moves": ["Confuse Ray", "Screech", "Wing Attack", "Supersonic"]
+      },
+      {
+        "pokemon": "Weezing",
+        "level": 44,
+        "types": ["Poison"],
+        "moves": ["Sludge Bomb", "Toxic", "Explosion", "Double Hit"]
+      },
+      {
+        "pokemon": "Ariados",
+        "level": 47,
+        "types": ["Bug", "Poison"],
+        "moves": ["Swagger", "Night Shade", "Poison Jab", "Pin Missile"]
+      },
+      {
+        "pokemon": "Ariados",
+        "level": 47,
+        "types": ["Bug", "Poison"],
+        "moves": ["Psychic", "Poison Jab", "Scary Face", "Pin Missile"]
+      },
+      {
+        "pokemon": "Venomoth",
+        "level": 50,
+        "types": ["Bug", "Poison"],
+        "moves": ["Double Team", "Psychic", "Sludge Bomb", "Signal Beam"]
+      }
+    ]
+  },
+  {
+    "trainer": "Sabrina",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Saffron Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/sabrina.png",
+    "team": [
+      {
+        "pokemon": "Espeon",
+        "level": 53,
+        "types": ["Psychic"],
+        "moves": ["Calm Mind", "Shadow Ball", "Psychic", "Skill Swap"]
+      },
+      {
+        "pokemon": "Mr. Mime",
+        "level": 53,
+        "types": ["Psychic"],
+        "moves": ["Mimic", "Light Screen", "Psychic", "Skill Swap"]
+      },
+      {
+        "pokemon": "Alakazam",
+        "level": 55,
+        "types": ["Psychic"],
+        "moves": ["Psychic", "Skill Swap", "Reflect", "Energy Ball"]
+      }
+    ]
+  },
+  {
+    "trainer": "Blaine",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Cinnabar Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/blaine.png",
+    "team": [
+      {
+        "pokemon": "Magcargo",
+        "level": 54,
+        "types": ["Fire", "Rock"],
+        "moves": ["Overheat", "Sunny Day", "Smog", "Rock Slide"]
+      },
+      {
+        "pokemon": "Magmar",
+        "level": 54,
+        "types": ["Fire"],
+        "moves": ["ThunderPunch", "Confuse Ray", "Overheat", "Sunny Day"]
+      },
+      {
+        "pokemon": "Rapidash",
+        "level": 59,
+        "types": ["Fire"],
+        "moves": ["Quick Attack", "Bounce", "Overheat", "Flare Blitz"]
+      }
+    ]
+  },
+  {
+    "trainer": "Blue",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Gym Leader",
+    "location": "Viridian Gym",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/blue.png",
+    "team": [
+      {
+        "pokemon": "Exeggutor",
+        "level": 55,
+        "types": ["Grass", "Psychic"],
+        "moves": ["Leaf Storm", "Psychic", "Hypnosis", "Trick Room"]
+      },
+      {
+        "pokemon": "Arcanine",
+        "level": 58,
+        "types": ["Fire"],
+        "moves": ["Roar", "Dragon Pulse", "Flare Blitz", "Extreme Speed"]
+      },
+      {
+        "pokemon": "Rhydon",
+        "level": 58,
+        "types": ["Ground", "Rock"],
+        "moves": ["Megahorn", "Stone Edge", "Thunder Fang", "Earthquake"]
+      },
+      {
+        "pokemon": "Gyarados",
+        "level": 52,
+        "types": ["Water", "Flying"],
+        "moves": ["Ice Fang", "Waterfall", "Dragon Dance", "Return"]
+      },
+      {
+        "pokemon": "Machamp",
+        "level": 56,
+        "types": ["Fighting"],
+        "moves": ["DynamicPunch", "Earthquake", "Stone Edge", "ThunderPunch"]
+      },
+      {
+        "pokemon": "Pidgeot",
+        "level": 60,
+        "types": ["Normal", "Flying"],
+        "moves": ["Return", "Whirlwind", "Air Slash", "Mirror Move"]
+      }
+    ]
+  },
+  {
+    "trainer": "Red",
+    "generation": "4",
+    "games": ["SoulSilver", "HeartGold"],
+    "type": "Boss",
+    "location": "Mt. Silver Cave",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/red.png",
+    "team": [
+      {
+        "pokemon": "Pikachu",
+        "level": 88,
+        "types": ["Electric"],
+        "moves": ["Volt Tackle", "Iron Tail", "Quick Attack", "Thunderbolt"]
+      },
+      {
+        "pokemon": "Lapras",
+        "level": 80,
+        "types": ["Water", "Ice"],
+        "moves": ["Body Slam", "Brine", "Blizzard", "Psychic"]
+      },
+      {
+        "pokemon": "Snorlax",
+        "level": 82,
+        "types": ["Normal"],
+        "moves": ["Shadow Ball", "Crunch", "Blizzard", "Giga Impact"]
+      },
+      {
+        "pokemon": "Venusaur",
+        "level": 84,
+        "types": ["Grass", "Poison"],
+        "moves": ["Frenzy Plant", "Giga Drain", "Sludge Bomb", "Sleep Powder"]
+      },
+      {
+        "pokemon": "Charizard",
+        "level": 84,
+        "types": ["Fire", "Flying"],
+        "moves": ["Blast Burn", "Flare Blitz", "Air Slash", "Dragon Pulse"]
+      },
+      {
+        "pokemon": "Blastoise",
+        "level": 84,
+        "types": ["Water"],
+        "moves": ["Hydro Cannon", "Blizzard", "Flash Cannon", "Focus Blast"]
+      }
+    ]
+  },
+  {
+    "trainer": "Cilan",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Striaton City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/cilan.png",
+    "team": [
+      {
+        "pokemon": "Lillipup",
+        "level": 12,
+        "types": ["Normal"],
+        "moves": ["Bite", "Work Up"]
+      },
+      {
+        "pokemon": "Pansage",
+        "level": 14,
+        "types": ["Grass"],
+        "moves": ["Vine Whip", "Work Up"]
+      }
+    ]
+  },
+  {
+    "trainer": "Chili",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Striaton City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/chili.png",
+    "team": [
+      {
+        "pokemon": "Lillipup",
+        "level": 12,
+        "types": ["Normal"],
+        "moves": ["Bite", "Work Up"]
+      },
+      {
+        "pokemon": "Pansear",
+        "level": 14,
+        "types": ["Fire"],
+        "moves": ["Incinerate", "Work Up"]
+      }
+    ]
+  },
+  {
+    "trainer": "Cress",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Striaton City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/cress.png",
+    "team": [
+      {
+        "pokemon": "Lillipup",
+        "level": 12,
+        "types": ["Normal"],
+        "moves": ["Bite", "Work Up"]
+      },
+      {
+        "pokemon": "Panpour",
+        "level": 14,
+        "types": ["Water"],
+        "moves": ["Water Gun", "Work Up"]
+      }
+    ]
+  },
+  {
+    "trainer": "Lenora",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Nacrene City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/lenora.png",
+    "team": [
+      {
+        "pokemon": "Herdier",
+        "level": 18,
+        "types": ["Normal"],
+        "moves": ["Take Down", "Bite", "Retaliate", "Leer"]
+      },
+      {
+        "pokemon": "Watchog",
+        "level": 20,
+        "types": ["Normal"],
+        "moves": ["Leer", "Crunch", "Retaliate", "Hypnosis"]
+      }
+    ]
+  },
+  {
+    "trainer": "Burgh",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Castelia City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/burgh.png",
+    "team": [
+      {
+        "pokemon": "Whirlipede",
+        "level": 21,
+        "types": ["Bug", "Poison"],
+        "moves": ["Screech", "Pursuit", "Poison Tail", "Struggle Bug"]
+      },
+      {
+        "pokemon": "Dwebble",
+        "level": 21,
+        "types": ["Bug", "Rock"],
+        "moves": ["Sand-Attack", "Faint Attack", "Smack Down", "Struggle Bug"]
+      },
+      {
+        "pokemon": "Leavanny",
+        "level": 23,
+        "types": ["Bug", "Grass"],
+        "moves": ["Protect", "String Shot", "Razor Leaf", "Struggle Bug"]
+      }
+    ]
+  },
+  {
+    "trainer": "Elesa",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Nimbasa City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/elesa.png",
+    "team": [
+      {
+        "pokemon": "Emolga",
+        "level": 25,
+        "types": ["Electric", "Flying"],
+        "moves": ["Quick Attack", "Pursuit", "Aerial Ace", "Volt Switch"]
+      },
+      {
+        "pokemon": "Emolga",
+        "level": 25,
+        "types": ["Electric", "Flying"],
+        "moves": ["Quick Attack", "Pursuit", "Aerial Ace", "Volt Switch"]
+      },
+      {
+        "pokemon": "Zebstrika",
+        "level": 27,
+        "types": ["Electric"],
+        "moves": ["Quick Attack", "Flame Charge", "Spark", "Volt Switch"]
+      }
+    ]
+  },
+  {
+    "trainer": "Clay",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Driftveil City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/clay.png",
+    "team": [
+      {
+        "pokemon": "Krokorok",
+        "level": 29,
+        "types": ["Ground", "Dark"],
+        "moves": ["Swagger", "Torment", "Crunch", "Bulldoze"]
+      },
+      {
+        "pokemon": "Palpitoad",
+        "level": 29,
+        "types": ["Water", "Ground"],
+        "moves": ["Aqua Ring", "BubbleBeam", "Muddy Water", "Bulldoze"]
+      },
+      {
+        "pokemon": "Excadrill",
+        "level": 31,
+        "types": ["Ground", "Steel"],
+        "moves": ["Hone Claws", "Slash", "Rock Slide", "Bulldoze"]
+      }
+    ]
+  },
+  {
+    "trainer": "Skyla",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Mistralton City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/skyla.png",
+    "team": [
+      {
+        "pokemon": "Swoobat",
+        "level": 33,
+        "types": ["Psychic", "Flying"],
+        "moves": ["Acrobatics", "Amnesia", "Assurance", "Heart Stamp"]
+      },
+      {
+        "pokemon": "Unfezant",
+        "level": 33,
+        "types": ["Normal", "Flying"],
+        "moves": ["Leer", "Quick Attack", "Air Slash", "Razor Wind"]
+      },
+      {
+        "pokemon": "Swanna",
+        "level": 35,
+        "types": ["Water", "Flying"],
+        "moves": ["Aqua Ring", "Aerial Ace", "BubbleBeam", "Air Slash"]
+      }
+    ]
+  },
+  {
+    "trainer": "Brycen",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "type": "Gym Leader",
+    "location": "Icirrus City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/brycen.png",
+    "team": [
+      {
+        "pokemon": "Vanillish",
+        "level": 37,
+        "types": ["Ice"],
+        "moves": ["Acid Armor", "Astonish", "Mirror Shot", "Frost Breath"]
+      },
+      {
+        "pokemon": "Cryogonal",
+        "level": 37,
+        "types": ["Ice"],
+        "moves": ["Reflect", "Rapid Spin", "Aurora Beam", "Frost Breath"]
+      },
+      {
+        "pokemon": "Beartic",
+        "level": 39,
+        "types": ["Ice"],
+        "moves": ["Swagger", "Brine", "Slash", "Icicle Crash"]
+      }
+    ]
+  },
+  {
+    "trainer": "Drayden",
+    "generation": "5",
+    "games": ["Black"],
+    "type": "Gym Leader",
+    "location": "Opelucid City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/drayden.png",
+    "team": [
+      {
+        "pokemon": "Fraxure",
+        "level": 41,
+        "types": ["Dragon"],
+        "moves": ["Dragon Dance", "Dragon Rage", "Assurance", "Dragon Tail"]
+      },
+      {
+        "pokemon": "Druddigon",
+        "level": 41,
+        "types": ["Dragon"],
+        "moves": ["Revenge", "Chip Away", "Night Slash", "Dragon Tail"]
+      },
+      {
+        "pokemon": "Haxorus",
+        "level": 43,
+        "types": ["Dragon"],
+        "moves": ["Dragon Dance", "Assurance", "Slash", "Dragon Tail"]
+      }
+    ]
+  },
+  {
+    "trainer": "Iris",
+    "generation": "5",
+    "games": ["White"],
+    "type": "Gym Leader",
+    "location": "Opelucid City",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/iris.png",
+    "team": [
+      {
+        "pokemon": "Fraxure",
+        "level": 41,
+        "types": ["Dragon"],
+        "moves": ["Dragon Dance", "Dragon Rage", "Assurance", "Dragon Tail"]
+      },
+      {
+        "pokemon": "Druddigon",
+        "level": 41,
+        "types": ["Dragon"],
+        "moves": ["Revenge", "Chip Away", "Night Slash", "Dragon Tail"]
+      },
+      {
+        "pokemon": "Haxorus",
+        "level": 43,
+        "types": ["Dragon"],
+        "moves": ["Dragon Dance", "Assurance", "Slash", "Dragon Tail"]
+      }
+    ]
+  },
+  {
+    "trainer": "Shauntal",
+    "type": "Elite Four",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "location": "Unova League",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/shauntal.png",
+    "team": [
+      {
+        "pokemon": "Cofagrigus",
+        "level": 48,
+        "types": ["Ghost"],
+        "moves": ["Psychic", "Will-O-Wisp", "Shadow Ball", "Grass Knot"]
+      },
+      {
+        "pokemon": "Jellicent",
+        "level": 48,
+        "types": ["Water", "Ghost"],
+        "moves": ["Shadow Ball", "Surf", "Energy Ball", "Brine"]
+      },
+      {
+        "pokemon": "Golurk",
+        "level": 48,
+        "types": ["Ground", "Ghost"],
+        "moves": ["Curse", "Brick Break", "Earthquake", "Shadow Punch"]
+      },
+      {
+        "pokemon": "Chandelure",
+        "level": 50,
+        "types": ["Ghost", "Fire"],
+        "moves": ["Fire Blast", "Psychic", "Shadow Ball", "Payback"]
+      }
+    ]
+  },
+  {
+    "trainer": "Grimsley",
+    "type": "Elite Four",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "location": "Unova League",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/grimsley.png",
+    "team": [
+      {
+        "pokemon": "Scrafty",
+        "level": 48,
+        "types": ["Dark", "Fighting"],
+        "moves": ["Sand-Attack", "Crunch", "Poison Jab", "Brick Break"]
+      },
+      {
+        "pokemon": "Liepard",
+        "level": 48,
+        "types": ["Dark"],
+        "moves": ["Fake Out", "Attract", "Aerial Ace", "Night Slash"]
+      },
+      {
+        "pokemon": "Krookodile",
+        "level": 48,
+        "types": ["Ground", "Dark"],
+        "moves": ["Crunch", "Dragon Claw", "Foul Play", "Earthquake"]
+      },
+      {
+        "pokemon": "Bisharp",
+        "level": 50,
+        "types": ["Dark", "Steel"],
+        "moves": ["X-Scissor", "Night Slash", "Metal Claw", "Aerial Ace"]
+      }
+    ]
+  },
+  {
+    "trainer": "Caitlin",
+    "type": "Elite Four",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "location": "Unova League",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/caitlin.png",
+    "team": [
+      {
+        "pokemon": "Reuniclus",
+        "level": 48,
+        "types": ["Psychic"],
+        "moves": ["Energy Ball", "Thunder", "Focus Blast", "Psychic"]
+      },
+      {
+        "pokemon": "Musharna",
+        "level": 48,
+        "types": ["Psychic"],
+        "moves": ["Reflect", "Charge Beam", "Shadow Ball", "Psychic"]
+      },
+      {
+        "pokemon": "Sigilyph",
+        "level": 48,
+        "types": ["Psychic", "Flying"],
+        "moves": ["Shadow Ball", "Ice Beam", "Air Slash", "Psychic"]
+      },
+      {
+        "pokemon": "Gothitelle",
+        "level": 50,
+        "types": ["Psychic"],
+        "moves": ["Calm Mind", "Thunderbolt", "Shadow Ball", "Psychic"]
+      }
+    ]
+  },
+  {
+    "trainer": "Marshal",
+    "type": "Elite Four",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "location": "Unova League",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/marshal.png",
+    "team": [
+      {
+        "pokemon": "Throh",
+        "level": 48,
+        "types": ["Fighting"],
+        "moves": ["Stone Edge", "Payback", "Bulldoze", "Storm Throw"]
+      },
+      {
+        "pokemon": "Sawk",
+        "level": 48,
+        "types": ["Fighting"],
+        "moves": ["Stone Edge", "Karate Chop", "Grass Knot", "Retaliate"]
+      },
+      {
+        "pokemon": "Conkeldurr",
+        "level": 48,
+        "types": ["Fighting"],
+        "moves": ["Stone Edge", "Hammer Arm", "Retaliate", "Grass Knot"]
+      },
+      {
+        "pokemon": "Mienshao",
+        "level": 50,
+        "types": ["Fighting"],
+        "moves": ["U-turn", "Jump Kick", "Rock Slide", "Retaliate"]
+      }
+    ]
+  },
+  {
+    "trainer": "Alder",
+    "type": "Champion",
+    "generation": "5",
+    "games": ["Black", "White"],
+    "location": "Unova League",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/alder.png",
+    "team": [
+      {
+        "pokemon": "Accelgor",
+        "level": 75,
+        "types": ["Bug"],
+        "moves": ["Bug Buzz", "Focus Blast", "Me First", "Energy Ball"]
+      },
+      {
+        "pokemon": "Bouffalant",
+        "level": 75,
+        "types": ["Normal"],
+        "moves": ["Head Charge", "Megahorn", "Stone Edge", "Earthquake"]
+      },
+      {
+        "pokemon": "Druddigon",
+        "level": 75,
+        "types": ["Dragon"],
+        "moves": ["Night Slash", "Outrage", "Superpower", "Payback"]
+      },
+      {
+        "pokemon": "Vanilluxe",
+        "level": 75,
+        "types": ["Ice"],
+        "moves": ["Blizzard", "Light Screen", "Flash Cannon", "Acid Armor"]
+      },
+      {
+        "pokemon": "Escavalier",
+        "level": 75,
+        "types": ["Bug", "Steel"],
+        "moves": ["X-Scissor", "Giga Impact", "Iron Head", "Aerial Ace"]
+      },
+      {
+        "pokemon": "Volcarona",
+        "level": 77,
+        "types": ["Bug", "Fire"],
+        "moves": ["Overheat", "Bug Buzz", "Quiver Dance", "Hyper Beam"]
+      }
+    ]
+  }
+]
